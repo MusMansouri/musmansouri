@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/musmansouri/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connectons_nous-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn MusMansouri" />
     </a>
-    <a href="https://https://mansourimus.bolt.host/" target="_blank">
+    <a href="https://mansourimus.bolt.host/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visiter_mon_site-EF3939?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio MusMansouri" />
     </a>
     <a href="mailto:mansouri.mustapha.a@gmail.com">
